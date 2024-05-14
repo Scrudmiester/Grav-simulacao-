@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1715219198
+count: 1
+index:
+  adviktest:
+    storage_key: adviktest
+    storage_timestamp: 1715219198
+    key: adviktest
+    email: advikjohari@gmail.com

@@ -1,0 +1,15 @@
+1715621682
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:19:"terceirizacao-de-ti";s:8:"elements";a:8:{s:4:"root";b:0;s:11:"storage_key";s:22:"05.terceirizacao-de-ti";s:6:"header";a:5:{s:5:"title";s:24:"Terceirização de TI V2";s:7:"content";a:5:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"limit";i:5;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}s:12:"hero_classes";s:45:"text-light titleh1h2 overlay-dark hero-medium";s:10:"hero_image";s:10:"gahaha.jpg";s:4:"menu";s:4:"Blog";}s:11:"frontmatter";s:287:"title: 'Terceirização de TI V2'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+hero_classes: 'text-light titleh1h2 overlay-dark hero-medium'
+hero_image: gahaha.jpg
+menu: Blog";s:8:"markdown";s:7:"# Blog
+";s:4:"slug";s:19:"terceirizacao-de-ti";s:4:"name";s:7:"blog.md";s:8:"ordering";b:1;}s:7:"storage";a:7:{s:3:"key";s:19:"terceirizacao-de-ti";s:11:"storage_key";s:22:"05.terceirizacao-de-ti";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1715620112;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1715620112;}}s:8:"children";a:1:{s:7:"content";b:0;}s:8:"checksum";s:32:"13523a5a105aec400484c232a06787a0";}}

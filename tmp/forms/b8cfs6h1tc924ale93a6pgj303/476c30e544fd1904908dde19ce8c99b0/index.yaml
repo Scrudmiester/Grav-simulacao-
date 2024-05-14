@@ -1,0 +1,31 @@
+form: flex-pages
+id: 'tmp://forms/session/476c30e544fd1904908dde19ce8c99b0'
+unique_id: 476c30e544fd1904908dde19ce8c99b0
+url: '/pages/terceirizacao-de-ti/terceirizacao-de-ti-v2-2/:add'
+user:
+  username: adviktest
+  email: advikjohari@gmail.com
+timestamps:
+  created: 1715614409
+  updated: 1715614409
+data: null
+files: {  }
+object:
+  type: pages
+  key: terceirizacao-de-ti/terceirizacao-de-ti-v2-2
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: 02.terceirizacao-de-ti
+    order: false
+    folder: terceirizacao-de-ti-v2-2
+    template: item
+    lang: ''
+    root: false
+    route: /terceirizacao-de-ti
+    name: item
+    header:
+      title: 'Terceirização de TI V2.2'
+    frontmatter: "title: 'Terceirização de TI V2.2'\n"

@@ -1,0 +1,5 @@
+1715610114
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"mypage";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:11:"My New Page";s:4:"menu";s:5:"Cloud";}s:11:"frontmatter";s:32:"title: 'My New Page'
+menu: Cloud";s:8:"markdown";s:96:"# My New Page!
+
+This is the body of **my new page** and I can easily use _Markdown_ syntax here.";}s:7:"storage";a:6:{s:3:"key";s:6:"mypage";s:11:"storage_key";s:9:"04.mypage";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1715350935;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1715283064;}}s:8:"checksum";s:32:"327128fb7252bc81290fa79beb03c9bd";}}

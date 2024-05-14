@@ -1,0 +1,6 @@
+1715609557
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:25:"terceirizacao-de-ti/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:4:"Hero";s:12:"body_classes";s:7:"modular";s:12:"hero_classes";s:45:"text-light titleh1h2 overlay-dark hero-medium";s:10:"hero_image";s:10:"gahaha.jpg";s:4:"menu";s:21:"Terceirização de TI";}s:11:"frontmatter";s:148:"title: Hero
+body_classes: modular
+hero_classes: 'text-light titleh1h2 overlay-dark hero-medium'
+hero_image: gahaha.jpg
+menu: 'Terceirização de TI'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:25:"terceirizacao-de-ti/_hero";s:11:"storage_key";s:28:"02.terceirizacao-de-ti/_hero";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1715350376;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"hero";i:1715350376;}}s:8:"checksum";s:32:"4a09f503040d31714bcc7ec7d2f47f4e";}}

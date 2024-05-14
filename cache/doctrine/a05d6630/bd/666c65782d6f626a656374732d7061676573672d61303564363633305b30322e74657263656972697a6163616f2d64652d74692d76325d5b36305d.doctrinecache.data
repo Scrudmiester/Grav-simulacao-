@@ -1,0 +1,4 @@
+1715620703
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"terceirizacao-de-ti-v2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:24:"Terceirização de TI V2";s:12:"hero_classes";s:45:"text-light titleh1h2 overlay-dark hero-medium";s:10:"hero_image";s:10:"gahaha.jpg";}s:11:"frontmatter";s:118:"title: 'Terceirização de TI V2'
+hero_classes: 'text-light titleh1h2 overlay-dark hero-medium'
+hero_image: gahaha.jpg";s:8:"markdown";s:29:"this the content of the post ";}s:7:"storage";a:6:{s:3:"key";s:22:"terceirizacao-de-ti-v2";s:11:"storage_key";s:25:"02.terceirizacao-de-ti-v2";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1715614933;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1715614161;}}s:8:"checksum";s:32:"7062ce5ca8897759fe7c401d487972a9";}}

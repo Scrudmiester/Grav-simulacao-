@@ -1,0 +1,6 @@
+1715609888
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:19:"terceirizacao-de-ti";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:21:"Terceirização de TI";s:7:"content";a:1:{s:5:"items";s:13:"@self.modular";}s:4:"menu";s:21:"Terceirização de TI";s:7:"visible";b:1;}s:11:"frontmatter";s:110:"title: 'Terceirização de TI'
+content:
+    items: '@self.modular'
+menu: 'Terceirização de TI'
+visible: true";s:8:"markdown";s:25:"This terceirizacao de ti ";}s:7:"storage";a:7:{s:3:"key";s:19:"terceirizacao-de-ti";s:11:"storage_key";s:22:"02.terceirizacao-de-ti";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1715350988;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"modular";i:1715350988;}}s:8:"children";a:1:{s:5:"_hero";b:0;}s:8:"checksum";s:32:"b23d4bda0b2d9afc6c828e09d2912a6f";}}

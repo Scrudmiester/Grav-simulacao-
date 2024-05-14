@@ -1,0 +1,19 @@
+.banner {
+    position: relative;
+    text-align: center;
+    color: white; /* Text color */
+}
+
+.banner img {
+    width: 100%; /* Makes the image stretch to cover the entire width */
+    height: auto; /* Adjust height automatically */
+}
+
+.banner-title {
+    position: absolute;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust the centering */
+    font-size: 2rem; /* Large text */
+    font-weight: bold; /* Bold text */
+}
